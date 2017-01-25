@@ -73,7 +73,7 @@ PING 192.168.10.2 (192.168.10.2): 56 data bytes
 64 bytes from 192.168.10.2: icmp_seq=2 ttl=64 time=0.138 ms
 ```
 
-# Aappendix 1
+# Appendix 1
 IPv6 is also supported.  
 
 ```
